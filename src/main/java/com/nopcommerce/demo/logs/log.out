@@ -1,0 +1,89 @@
+2022-09-12 22:09:900 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-12 22:09:844 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-12 22:09:882 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-12 23:09:535 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-12 23:09:51 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-12 23:09:903 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-12 23:09:271 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-12 23:09:947 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 00:09:604 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 00:09:87 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 00:09:701 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 00:09:552 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 00:09:467 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 00:09:321 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 00:09:273 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:188 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:640 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:127 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:783 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:134 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:42 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:571 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:498 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:333 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:686 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:794 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:186 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:955 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:866 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:962 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:948 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:806 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:770 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-13 17:09:917 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:624 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:603 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:150 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:365 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:02 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:603 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:383 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:398 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:972 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:674 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:235 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:394 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:455 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:744 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:55 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:134 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:423 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:513 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:429 INFO  DeskTopPage :39 - Get pageTitle text [[ChromeDriver: chrome on WINDOWS (6d3cb800b9459138b12f7b21d12b582a)] -> css selector: div[class='page-title'] h1]
+2022-09-14 19:09:154 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:890 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (3e88397131d767e81f017076636fff39)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (3e88397131d767e81f017076636fff39)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (3e88397131d767e81f017076636fff39)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 19:09:178 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:463 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (c627d33d21e74fd66be73fa600ce4d9a)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (c627d33d21e74fd66be73fa600ce4d9a)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (c627d33d21e74fd66be73fa600ce4d9a)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 19:09:724 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 19:09:659 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (34115581aeb81ec2c4a57f322cfd9044)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (34115581aeb81ec2c4a57f322cfd9044)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (34115581aeb81ec2c4a57f322cfd9044)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:712 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:688 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:495 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:129 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:240 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:980 INFO  DeskTopPage :39 - Get pageTitle text [[ChromeDriver: chrome on WINDOWS (d696a3c4e8b13ac00b5b57a6f06e92a7)] -> css selector: div[class='page-title'] h1]
+2022-09-14 23:09:245 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:422 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (90c4e13f76a23b7bfba0890cbe2837fd)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (90c4e13f76a23b7bfba0890cbe2837fd)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (90c4e13f76a23b7bfba0890cbe2837fd)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:128 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:411 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (4248765788b0236013088004d8a1aa68)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (4248765788b0236013088004d8a1aa68)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (4248765788b0236013088004d8a1aa68)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:956 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:422 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (2b4821db497fba4c751e3db94333ba55)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (2b4821db497fba4c751e3db94333ba55)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (2b4821db497fba4c751e3db94333ba55)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:983 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:614 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:843 INFO  DeskTopPage :39 - Get pageTitle text [[ChromeDriver: chrome on WINDOWS (76215202a7139c1a576e591261a8cd39)] -> css selector: div[class='page-title'] h1]
+2022-09-14 23:09:735 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:919 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (525349ceaa99810c18017063a1edb283)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (525349ceaa99810c18017063a1edb283)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (525349ceaa99810c18017063a1edb283)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:569 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:850 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (dc43bf8d6f79b6a89aaebfc7511f5244)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (dc43bf8d6f79b6a89aaebfc7511f5244)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (dc43bf8d6f79b6a89aaebfc7511f5244)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:493 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:254 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (a624fd8f8da9cae4045936d4ad402e90)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (a624fd8f8da9cae4045936d4ad402e90)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (a624fd8f8da9cae4045936d4ad402e90)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:139 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:263 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:984 INFO  DeskTopPage :39 - Get pageTitle text [[ChromeDriver: chrome on WINDOWS (20b9dee9797ae8c5d2d7eac17d4d690a)] -> css selector: div[class='page-title'] h1]
+2022-09-14 23:09:846 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:661 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (fb89f17cb2485d46ee044d597d730425)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (fb89f17cb2485d46ee044d597d730425)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (fb89f17cb2485d46ee044d597d730425)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:653 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:743 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (ea264b04624ef29555c0ed9a0bdd769b)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (ea264b04624ef29555c0ed9a0bdd769b)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (ea264b04624ef29555c0ed9a0bdd769b)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-14 23:09:579 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-14 23:09:46 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (c8768fd124bf70f3c308ba866d82e57a)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (c8768fd124bf70f3c308ba866d82e57a)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (c8768fd124bf70f3c308ba866d82e57a)] -> xpath: //div[@class='products-container']//h2/a]]
