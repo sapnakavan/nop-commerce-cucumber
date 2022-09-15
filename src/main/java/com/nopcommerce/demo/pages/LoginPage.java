@@ -14,6 +14,7 @@ public class LoginPage extends Utility {
     private static final Logger log = LogManager.getLogger(LoginPage.class.getName());
 
     public LoginPage() {PageFactory.initElements(driver, this);}
+    public static String email = getRandomString(3) + "@gmail.com";
 
     @CacheLookup
     @FindBy(xpath = "//h1[contains(text(),'Welcome, Please Sign In!')]")
@@ -37,7 +38,7 @@ public class LoginPage extends Utility {
     }
 
     public void enterEmailId(String email) {
-        sendTextToElement(emailField, email);
+        sendTextToElement(emailField,"abc"+LoginPage.email);
     }
 
     public void enterPassword(String password) {

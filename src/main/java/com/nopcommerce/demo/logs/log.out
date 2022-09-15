@@ -87,3 +87,18 @@
 2022-09-14 23:09:743 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (ea264b04624ef29555c0ed9a0bdd769b)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (ea264b04624ef29555c0ed9a0bdd769b)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (ea264b04624ef29555c0ed9a0bdd769b)] -> xpath: //div[@class='products-container']//h2/a]]
 2022-09-14 23:09:579 INFO  ManageDriver :33 - Launching Chrome Browser
 2022-09-14 23:09:46 INFO  DeskTopPage :56 - Click on product 'Build your own computer' : [[[ChromeDriver: chrome on WINDOWS (c8768fd124bf70f3c308ba866d82e57a)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (c8768fd124bf70f3c308ba866d82e57a)] -> xpath: //div[@class='products-container']//h2/a], [[ChromeDriver: chrome on WINDOWS (c8768fd124bf70f3c308ba866d82e57a)] -> xpath: //div[@class='products-container']//h2/a]]
+2022-09-15 18:09:425 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:178 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:24 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:681 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:802 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:660 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:264 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:612 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:810 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:148 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:793 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:136 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:00 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:281 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-09-15 18:09:313 INFO  ManageDriver :33 - Launching Chrome Browser

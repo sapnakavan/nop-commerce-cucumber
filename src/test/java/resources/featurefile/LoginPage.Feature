@@ -21,7 +21,7 @@ Feature: Login Page
     And   I enter email "Test124@gmail.com"
     And   I enter password "tEST1234"
     And   I click on login button
-    Then  I Verify that LogOut link is display
+
 
   Scenario:User Should LogOut SuccessFully
    Given I am on HomePage
