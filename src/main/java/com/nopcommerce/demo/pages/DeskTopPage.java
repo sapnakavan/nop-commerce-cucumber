@@ -36,18 +36,17 @@ public class DeskTopPage extends Utility {
 
     public String getPageTitleText() {
         String message = getTextFromElement(pageTitle);
-        log.info("Get pageTitle text " + pageTitle.toString());
         return message;
     }
 
     public void selectSortBy(String position) {
         selectByVisibleTextFromDropDown(sortBy, position);
-        log.info("Sort by '" + sortBy.toString());
+
     }
 
     public void selectDisplayPerPage(String number) {
         selectByVisibleTextFromDropDown(display, number);
-        log.info("Display product '" + display.toString());
+
     }
 
     public void selectProduct(String productName) {

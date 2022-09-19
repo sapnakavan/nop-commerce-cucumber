@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = ".",
+        features = "src/test/java/resources/featurefile",
         glue = "com/nopcommerce/demo",
         plugin = { "pretty", "html:target/cucumber-report/cucumber.html",
                 "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html",
@@ -34,5 +34,4 @@ public class TestRunner {
         Reporter.setSystemInfo("Maven", "3.5.9");
         Reporter.setSystemInfo("Java Version", "1.8.0_151");
     }
-
 }
